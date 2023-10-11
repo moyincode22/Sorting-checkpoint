@@ -1,0 +1,5 @@
+PROBLEMS 1 AND 2.
+STEP 1: Create a variable to hold the cards
+STEP 2: Compare the last card to the next card
+STEP 3: If the first cardis greater than the next, flip the position
+STEP 4: Repeat step 2 and 3 until all the cards are sorted.
